@@ -253,7 +253,7 @@
       "location": "northamerica-south1"
     }
   ],
-  "etag": "\"3137343834343730383734363639393335343631\"",
+  "etag": "\"3131383435313736383533313830393634343934\"",
   "icons": {
     "x16": "https://www.google.com/images/icons/product/cloud_storage-16.png",
     "x32": "https://www.google.com/images/icons/product/cloud_storage-32.png"
@@ -4731,7 +4731,7 @@
       }
     }
   },
-  "revision": "20260825",
+  "revision": "20260902",
   "rootUrl": "https://storage.googleapis.com/",
   "schemas": {
     "AdvanceRelocateBucketOperationRequest": {
